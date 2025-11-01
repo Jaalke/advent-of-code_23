@@ -15,7 +15,6 @@ if input_file ~= nil then
         end
     end
 
-
     function location_from_seed(seed, maps)
         location = seed
         for _, map in ipairs(maps) do
@@ -59,5 +58,5 @@ if input_file ~= nil then
 
     -- Sorting the locations and returning the lowest one as the answer
     table.sort(locations)
-    print(locations[1])
+    print("Lowest location: ", locations[1])
 end

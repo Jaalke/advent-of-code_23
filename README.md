@@ -23,4 +23,5 @@ pattern behind my choices.
 2. **Java** - both parts done
 3. **Python** - both parts done
 4. **Prolog** - part one done
-5. **Lua** - WIP
+5. **Lua** - both parts done
+6. **Rust** - WIP
